@@ -14,7 +14,7 @@ U2C_MCU_CANID="987e8b5638fa"
 SB2240_MCU_CANID="cc2af7c5e8a5"
 
 header0=$(echo -e "\033[31m######################################################################################\033[0m")
-header1=$(echo -e "\033[31m###\033[0m\033[33m Auto kompilieren und upgraden aller Klipper Canbus MCU's powered by 3DArtmaker \033[0m\033[31m###\033[0m")
+header1=$(echo -e "\033[31m###\033[0m\033[33m Auto kompilieren und upgraden aller Klipper Canbus MCU's powered by MeltPine \033[0m\033[31m###\033[0m")
 header2=$(echo -e "\033[31m######################################################################################\033[0m")
 
 clear
