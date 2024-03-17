@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# by Extrutex
+# by MeltPine
 #
 # zum erstellen neuer config's
 #Serial Name (ls /dev/serial/by-id/*)
@@ -61,7 +61,7 @@ esac
 clear
 echo -e "$header0\n$header1\n$header2\n\n"
 echo ""
-read -p "Haben Sie Canboot installiert ? (y/n)? " answer_ins1
+read -p "Haben sie katapul installiert ? (y/n)? " answer_ins1
 case ${answer_ins1:0:1} in
     y|Y )
 
@@ -76,9 +76,9 @@ case ${answer_ins1:0:1} in
 			    y|Y )
 
 					cd ~
-					git clone https://github.com/Arksine/CanBoot
+					git clone https://github.com/Arksine/katapult.git
 
-					echo -e "\033[32mBitte Canboot zu Ihrer passenden Hardware kompilieren und flashen. \033[0m"
+					echo -e "\033[32mBitte katabult zu Ihrer passenden Hardware kompilieren und flashen. \033[0m"
 					echo -e "\033[32mz.B Wie siehe auf https://github.com/docgalaxyblock/KlipperMisc/blob/main/CAN/BigTreeTech-U2C/README.md \033[0m"
 					exit
 			    ;;
@@ -135,14 +135,14 @@ cd ~/klipper
 clear
 echo -e "$header0\n$header1\n$header2\n\n"
 echo ""
-read -p "MCU Konfiguration anpassen (y/n)? " answer1
+read -p "MCU config anpassen (y/n)? " answer1
 case ${answer1:0:1} in
     y|Y )
 
 clear
 echo -e "$header0\n$header1\n$header2\n\n"
 echo ""    
-echo -e "Klipper Konfiguration erstellen für das \033[32mSB2240\033[0m"
+echo -e "Klipper config erstellen für das \033[32mSB2240\033[0m"
 sleep 5
 make KCONFIG_CONFIG=sb2240 			OUT=out-sb2240/  	menuconfig
 sleep 2
@@ -150,7 +150,7 @@ sleep 2
 clear
 echo -e "$header0\n$header1\n$header2\n\n"
 echo ""
-echo -e "Klipper Konfiguration erstellen für die \033[32mERCF\033[0m"
+echo -e "Klipper config erstellen für die \033[32mERCF\033[0m"
 sleep 5
 make KCONFIG_CONFIG=ercf 			OUT=out-ercf/  	menuconfig
 sleep 2
@@ -158,7 +158,7 @@ sleep 2
 clear
 echo -e "$header0\n$header1\n$header2\n\n"
 echo ""
-echo -e "Klipper Konfiguration erstellen für die \033[32mU2C Bridge\033[0m"
+echo -e "Klipper config erstellen für die \033[32mU2C Bridge\033[0m"
 sleep 5
 make KCONFIG_CONFIG=u2c 		  	OUT=out-u2c/  	menuconfig
 sleep 2
@@ -270,7 +270,7 @@ esac
 
 clear
 echo -e "$header0\n$header1\n$header2\n\n"
-read -p "Soll ich für Sie den Klipper Service wieder starten?. (y/n)? " answer1
+read -p "Soll den Klipper Service wieder starten?. (y/n)? " answer1
 case ${answer1:0:1} in
     y|Y )
 
@@ -278,7 +278,7 @@ case ${answer1:0:1} in
 	sudo service klipper start
 	echo -e "\033[32mKlipper Service gestartet \033[0m"
 	echo ""
-	echo -e "\033[33mVielen Dank für die Nutzung des Scripts von 3DArtmaker\033[0m"
+	echo -e "\033[33mVielen Dank für die Nutzung des Scripts von MeltPine\033[0m"
 
 	    ;;
     * )
