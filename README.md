@@ -1,4 +1,5 @@
-:QWPlainVL: 
+![QWPlainVL2](https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/3e3fd12e-7b77-4b94-8fe5-f907c12fcb37)
+
 #### WICHTIG SERIAL & MCU MÜSSEN mit den eigenen passen, diese müssen in der "KLIPPER-Update.sh" angepasst werden diese findet man in der  "printer.cfg" #### 
 
 Dieses Skript, erstellt von MeltPine, automatisiert den Prozess zum Flashens von Klipper Firmware für verschiedene Mikrocontroller-Einheiten 
