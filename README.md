@@ -30,8 +30,12 @@ Das Skript nutzt klare Anweisungen und Bestätigungen, um den Benutzer durch jed
 wobei die Sicherheit (durch das Stoppen/Starten des Klipper-Dienstes) und Benutzerfreundlichkeit (durch Optionen zur Installation und einfache Auswahlmöglichkeiten) 
 im Vordergrund stehen. Es ist ein praktisches Werkzeug für Anwender, die mehrere 3D-Drucker MCUs effizient verwalten und aktualisieren möchten, insbesondere in komplexen Setups mit CAN-Bus-Kommunikation.
 
+<p align="left">
+  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/c5d57f4f-aa25-4bef-83b4-ca8704d9f5fe" width="220">
+</p>
 
-<div style="float:right; 
-  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/840fdfc3-3e3a-4966-a946-01e901ef9464" alt="CANBUS"  width="220"> 
-</div>                                                                                                                                                                                         
+
+
+
+                                                                                                                                                                               
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
