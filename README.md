@@ -1,4 +1,4 @@
-![QWPlainVL2](https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/3e3fd12e-7b77-4b94-8fe5-f907c12fcb37)
+![26ae0367-515d-49fa-8fa4-ab0f0b2bf672](https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/00acfbb8-856f-4a07-855e-b16a112fda80)
 
 #### WICHTIG SERIAL & MCU MÜSSEN mit den eigenen passen, diese müssen in der "KLIPPER-Update.sh" angepasst werden diese findet man in der  "printer.cfg" #### 
 
