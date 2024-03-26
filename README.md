@@ -1,4 +1,4 @@
-vor dem ausführen auf spezifikationen achten !
+:QWPlainVL: 
 #### WICHTIG SERIAL & MCU MÜSSEN mit den eigenen passen, diese müssen in der "KLIPPER-Update.sh" angepasst werden diese findet man in der  "printer.cfg" #### 
 
 Dieses Skript, erstellt von MeltPine, automatisiert den Prozess zum Flashens von Klipper Firmware für verschiedene Mikrocontroller-Einheiten 
