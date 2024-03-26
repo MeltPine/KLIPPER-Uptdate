@@ -32,6 +32,6 @@ im Vordergrund stehen. Es ist ein praktisches Werkzeug für Anwender, die mehrer
 
 
 <div style="float:right; margin-left:10px;">
-  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/840fdfc3-3e3a-4966-a946-01e901ef9464" alt="CANBUS">  width="220">
-</div>                                                                                                                                                                                          
+  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/840fdfc3-3e3a-4966-a946-01e901ef9464" alt="CANBUS"  width="220"> 
+</div>                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
