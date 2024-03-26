@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/dfe284d6-9665-47b2-ade3-dda7027ada49" width="150">
+  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/dfe284d6-9665-47b2-ade3-dda7027ada49" width="220">
 </p>
 
 
