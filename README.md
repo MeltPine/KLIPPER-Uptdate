@@ -31,7 +31,7 @@ wobei die Sicherheit (durch das Stoppen/Starten des Klipper-Dienstes) und Benutz
 im Vordergrund stehen. Es ist ein praktisches Werkzeug für Anwender, die mehrere 3D-Drucker MCUs effizient verwalten und aktualisieren möchten, insbesondere in komplexen Setups mit CAN-Bus-Kommunikation.
 
 
-<div style="float:right; margin-right:10px;">
+<div style="float:right; 
   <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/840fdfc3-3e3a-4966-a946-01e901ef9464" alt="CANBUS"  width="220"> 
 </div>                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
