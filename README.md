@@ -1,6 +1,10 @@
+#### WICHTIG SERIAL & MCU MÜSSEN mit den eigenen passen, diese müssen in der "KLIPPER-Update.sh" angepasst werden diese findet man in der  "printer.cfg" ####
+
 Dieses Skript, erstellt von MeltPine, automatisiert den Prozess zum Flashens von Klipper Firmware für verschiedene Mikrocontroller-Einheiten 
 (MCUs) in einem 3D-Druck-Setup, das CAN-Bus für die Kommunikation nutzt. 
 Es beinhaltet auch Optionen für die Installation notwendiger Abhängigkeiten und das Management des Klipper-Dienstes auf dem Host-Computer (typischerweise ein Raspberry Pi).
+
+
 Hier ist eine Zusammenfassung der Funktionsweise des Skripts:
 
 1. Vorbereitung und Abhängigkeiten**: Das Skript prüft, ob `python3-pyserial` installiert ist und bietet an, es bei Bedarf zu installieren. Dies ist für die Kommunikation mit den MCUs notwendig.
