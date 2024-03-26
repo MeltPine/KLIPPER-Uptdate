@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/62179a6b-52a8-4747-8887-5144f38d20aa" width="100">
+  <img src="https://github.com/MeltPine/KLIPPER-Uptdate/assets/163598057/dfe284d6-9665-47b2-ade3-dda7027ada49" width="100">
 </p>
+
 
 #### WICHTIG `SERIAL & MCU` MÜSSEN mit den eigenen Werten passen, diese müssen in der "KLIPPER-Update.sh" angepasst werden. Die Werte findet man in der   "printer.cfg" #### 
 
